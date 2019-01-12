@@ -8,3 +8,5 @@ I would like to re-learn to use GitHub in order to be able to send my fixes for 
 I hope he appreciates it!
 
 just some extra lines, to see what happens if I change before pulling.
+
+two days later, to remember how to branch, save, and pull
